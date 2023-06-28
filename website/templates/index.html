@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link
+      rel="stylesheet"
+      href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+    />
+    <style>
+      body {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        min-height: 100vh;
+      }
+
+      .content {
+        max-width: 70%;
+      }
+    </style>
+    <title>Snap View</title>
+  </head>
+
+  <body>
+    <div class="content" align="justify">
+      <h1 class="text-center">Welcome to 'SNAP VIEW' the Photo Viewer Application</h1>
+      <br />
+      <p>
+        This application is designed to help you organize and view your
+        collection of favorite photos. With the photo viewer application, you
+        can easily store, manage, and access your photos whenever you want.
+      </p>
+      <p>
+        Simply upload your photos, and the application will securely store them
+        using a database. Once you log in, you will have access to all your
+        uploaded photos, allowing you to browse, search, and enjoy your memories
+        with ease.
+      </p>
+      <p>
+        Experience the convenience and simplicity of managing your photo
+        collection with our photo viewer application. Sign up today to get
+        started!
+      </p>
+      <div class="text-center">
+        <form action="{{ url_for('auth.login') }}" method="GET">
+          <button type="submit" class="btn btn-primary">Login</button>
+        </form>
+      </div>
+    </div>
+
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@popperjs/core@2.5.4/dist/umd/popper.min.js"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"></script>
+  </body>
+</html>
