@@ -35,13 +35,11 @@ Once logged in, you will be redirected to your personalized image gallery, where
 ## Screenshots
 
 ### Screenshot 1
-
-![1.png](..%2F..%2FUsers%2Frajku%2FDesktop%2F1.png)
+![1](https://github.com/Rajkumar0819/Flask-PhotoApp/assets/113299030/aeee51c2-58f9-45f2-9369-a6ffeb6ed7d7)
 
 ### Screenshot 2
-
-![2.png](..%2F..%2FUsers%2Frajku%2FDesktop%2F2.png)
+![2](https://github.com/Rajkumar0819/Flask-PhotoApp/assets/113299030/60a8e2eb-6abf-4153-82b5-e7d52ace6022)
 
 ### Screenshot 3
+![3](https://github.com/Rajkumar0819/Flask-PhotoApp/assets/113299030/c9bbd58d-c817-46ba-a8f5-06285c85e296)
 
-![3.png](..%2F..%2FUsers%2Frajku%2FDesktop%2F3.png)
