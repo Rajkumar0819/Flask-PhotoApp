@@ -2,7 +2,8 @@
 
 SnapView is a web application built with Flask, a Python web framework, that allows users to securely upload, store, and view their personal images. It provides a personalized image viewing experience with user authentication, login, and signup functionalities. Each logged-in user can only access and manage their own uploaded images, ensuring privacy and data separation.
 ```commandline
-https://exceptionhandler.pythonanywhere.com/
+[PROJECT SITE LINK](https://exceptionhandler.pythonanywhere.com/
+)
 ```
 ## Key Features
 
